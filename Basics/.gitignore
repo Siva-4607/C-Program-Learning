@@ -1,0 +1,17 @@
+
+# Compiled executable files
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Dynamic libraries
+*.dll
+
+# Debug files
+*.pdb
+
+# Temporary files
+*.tmp
