@@ -1,5 +1,12 @@
 # C programming basics 
 
+## Topics covered:
+- Features
+- Data types
+- Variables
+- operators
+- Comments
+- Keywords
 Freely available documentation of C: https://manual.cs50.io/ (simplified manual for C other than the original documentation)
 
 ## Header files:
