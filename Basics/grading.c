@@ -22,7 +22,7 @@ int main()
     scanf(" %c", &grade);
     
     // Printing all those values into the output
-    
+
     printf("Name: %s\n", name);
     printf("Age: %d \n", age);
     printf("Grade: %c \n", grade);
