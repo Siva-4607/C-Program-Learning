@@ -47,7 +47,7 @@ c-programming/
 
 ### Phase 1: Fundamentals
 
-- [ ] [01-basics](./01-basics) - History, compilation process, program structure, main(), comments, variables, constants, data types, operators, input/output
+- [x] [01-basics](./01-basics) - History, compilation process, program structure, main(), comments, variables, constants, data types, operators, input/output
 - [ ] [02-control-flow](./02-control-flow) - if, else-if, nested if, switch, break, continue, goto
 - [ ] [03-loops](./03-loops) - for, while, do-while, nested loops, pattern printing
 - [ ] [04-functions](./04-functions) - Parameters, return types, pass by value, scope
